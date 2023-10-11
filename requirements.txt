@@ -2,3 +2,4 @@ torch
 pillow
 torchvision
 flask
+gunicorn==19.7.1
